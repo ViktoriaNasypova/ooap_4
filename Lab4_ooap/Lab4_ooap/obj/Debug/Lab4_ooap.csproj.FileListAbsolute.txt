@@ -1,0 +1,10 @@
+C:\Users\torin\Desktop\Lab4_ooap\Lab4_ooap\bin\Debug\Lab4_ooap.exe.config
+C:\Users\torin\Desktop\Lab4_ooap\Lab4_ooap\bin\Debug\Lab4_ooap.exe
+C:\Users\torin\Desktop\Lab4_ooap\Lab4_ooap\bin\Debug\Lab4_ooap.pdb
+C:\Users\torin\Desktop\Lab4_ooap\Lab4_ooap\obj\Debug\Lab4_ooap.csproj.AssemblyReference.cache
+C:\Users\torin\Desktop\Lab4_ooap\Lab4_ooap\obj\Debug\Lab4_ooap.Form1.resources
+C:\Users\torin\Desktop\Lab4_ooap\Lab4_ooap\obj\Debug\Lab4_ooap.Properties.Resources.resources
+C:\Users\torin\Desktop\Lab4_ooap\Lab4_ooap\obj\Debug\Lab4_ooap.csproj.GenerateResource.cache
+C:\Users\torin\Desktop\Lab4_ooap\Lab4_ooap\obj\Debug\Lab4_ooap.csproj.CoreCompileInputs.cache
+C:\Users\torin\Desktop\Lab4_ooap\Lab4_ooap\obj\Debug\Lab4_ooap.exe
+C:\Users\torin\Desktop\Lab4_ooap\Lab4_ooap\obj\Debug\Lab4_ooap.pdb
